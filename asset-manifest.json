@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/eCommerceSteelSafe/static/css/main.e79ee40d.css",
-    "main.js": "/eCommerceSteelSafe/static/js/main.c3af61fa.js",
-    "static/js/453.e47ae0be.chunk.js": "/eCommerceSteelSafe/static/js/453.e47ae0be.chunk.js",
-    "static/media/closeup-shot-details-old-industrial-machine.jpg": "/eCommerceSteelSafe/static/media/closeup-shot-details-old-industrial-machine.ec5e192602fd67512fde.jpg",
-    "static/media/photo.jpg": "/eCommerceSteelSafe/static/media/photo.c1ad824d5729c0e90730.jpg",
-    "static/media/gears-4191907_1280.jpg": "/eCommerceSteelSafe/static/media/gears-4191907_1280.b922889d0ed91f3bec55.jpg",
-    "static/media/logo.jpg": "/eCommerceSteelSafe/static/media/logo.fbe9da76d88cfcf125f0.jpg",
-    "static/media/qrscan.jpg": "/eCommerceSteelSafe/static/media/qrscan.03e05e92b06b16da5567.jpg",
-    "index.html": "/eCommerceSteelSafe/index.html",
-    "main.e79ee40d.css.map": "/eCommerceSteelSafe/static/css/main.e79ee40d.css.map",
-    "main.c3af61fa.js.map": "/eCommerceSteelSafe/static/js/main.c3af61fa.js.map",
-    "453.e47ae0be.chunk.js.map": "/eCommerceSteelSafe/static/js/453.e47ae0be.chunk.js.map"
+    "main.css": "/static/css/main.90ae9f23.css",
+    "main.js": "/static/js/main.1dc10820.js",
+    "static/js/453.e47ae0be.chunk.js": "/static/js/453.e47ae0be.chunk.js",
+    "static/media/closeup-shot-details-old-industrial-machine.jpg": "/static/media/closeup-shot-details-old-industrial-machine.ec5e192602fd67512fde.jpg",
+    "static/media/photo.jpg": "/static/media/photo.c1ad824d5729c0e90730.jpg",
+    "static/media/gears-4191907_1280.jpg": "/static/media/gears-4191907_1280.b922889d0ed91f3bec55.jpg",
+    "static/media/logo.jpg": "/static/media/logo.fbe9da76d88cfcf125f0.jpg",
+    "static/media/qrscan.jpg": "/static/media/qrscan.03e05e92b06b16da5567.jpg",
+    "index.html": "/index.html",
+    "main.90ae9f23.css.map": "/static/css/main.90ae9f23.css.map",
+    "main.1dc10820.js.map": "/static/js/main.1dc10820.js.map",
+    "453.e47ae0be.chunk.js.map": "/static/js/453.e47ae0be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e79ee40d.css",
-    "static/js/main.c3af61fa.js"
+    "static/css/main.90ae9f23.css",
+    "static/js/main.1dc10820.js"
   ]
 }
