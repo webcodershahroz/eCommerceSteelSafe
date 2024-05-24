@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/eCommerceSteelSafe/static/css/main.e79ee40d.css",
-    "main.js": "/eCommerceSteelSafe/static/js/main.c785ce19.js",
+    "main.css": "/eCommerceSteelSafe/static/css/main.6c223ccb.css",
+    "main.js": "/eCommerceSteelSafe/static/js/main.6ee5ef9e.js",
     "static/js/453.e47ae0be.chunk.js": "/eCommerceSteelSafe/static/js/453.e47ae0be.chunk.js",
-    "static/media/closeup-shot-details-old-industrial-machine.jpg": "/eCommerceSteelSafe/static/media/closeup-shot-details-old-industrial-machine.ec5e192602fd67512fde.jpg",
     "static/media/photo.jpg": "/eCommerceSteelSafe/static/media/photo.c1ad824d5729c0e90730.jpg",
     "static/media/gears-4191907_1280.jpg": "/eCommerceSteelSafe/static/media/gears-4191907_1280.b922889d0ed91f3bec55.jpg",
     "static/media/logo.jpg": "/eCommerceSteelSafe/static/media/logo.fbe9da76d88cfcf125f0.jpg",
+    "static/media/lockerroom.jpg": "/eCommerceSteelSafe/static/media/lockerroom.5a2be399da5530b1a610.jpg",
     "static/media/qrscan.jpg": "/eCommerceSteelSafe/static/media/qrscan.03e05e92b06b16da5567.jpg",
+    "static/media/fireman.jpg": "/eCommerceSteelSafe/static/media/fireman.ba5f3ffbdddec34ed8fc.jpg",
+    "static/media/firework.jpg": "/eCommerceSteelSafe/static/media/firework.eddab6c2b74f8afe8372.jpg",
     "index.html": "/eCommerceSteelSafe/index.html",
-    "main.e79ee40d.css.map": "/eCommerceSteelSafe/static/css/main.e79ee40d.css.map",
-    "main.c785ce19.js.map": "/eCommerceSteelSafe/static/js/main.c785ce19.js.map",
+    "main.6c223ccb.css.map": "/eCommerceSteelSafe/static/css/main.6c223ccb.css.map",
+    "main.6ee5ef9e.js.map": "/eCommerceSteelSafe/static/js/main.6ee5ef9e.js.map",
     "453.e47ae0be.chunk.js.map": "/eCommerceSteelSafe/static/js/453.e47ae0be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e79ee40d.css",
-    "static/js/main.c785ce19.js"
+    "static/css/main.6c223ccb.css",
+    "static/js/main.6ee5ef9e.js"
   ]
 }
