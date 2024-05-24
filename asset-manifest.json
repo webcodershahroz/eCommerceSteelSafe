@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.90ae9f23.css",
-    "main.js": "/static/js/main.1dc10820.js",
+    "main.js": "/static/js/main.3de82400.js",
     "static/js/453.e47ae0be.chunk.js": "/static/js/453.e47ae0be.chunk.js",
     "static/media/closeup-shot-details-old-industrial-machine.jpg": "/static/media/closeup-shot-details-old-industrial-machine.ec5e192602fd67512fde.jpg",
     "static/media/photo.jpg": "/static/media/photo.c1ad824d5729c0e90730.jpg",
@@ -10,11 +10,11 @@
     "static/media/qrscan.jpg": "/static/media/qrscan.03e05e92b06b16da5567.jpg",
     "index.html": "/index.html",
     "main.90ae9f23.css.map": "/static/css/main.90ae9f23.css.map",
-    "main.1dc10820.js.map": "/static/js/main.1dc10820.js.map",
+    "main.3de82400.js.map": "/static/js/main.3de82400.js.map",
     "453.e47ae0be.chunk.js.map": "/static/js/453.e47ae0be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90ae9f23.css",
-    "static/js/main.1dc10820.js"
+    "static/js/main.3de82400.js"
   ]
 }
