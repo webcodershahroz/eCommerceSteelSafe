@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eCommerceSteelSafe/static/css/main.6ce36035.css",
-    "main.js": "/eCommerceSteelSafe/static/js/main.8742b8d7.js",
+    "main.js": "/eCommerceSteelSafe/static/js/main.d086f573.js",
     "static/js/453.e47ae0be.chunk.js": "/eCommerceSteelSafe/static/js/453.e47ae0be.chunk.js",
     "static/media/gfpic.png": "/eCommerceSteelSafe/static/media/gfpic.69754f8c53c5627c812c.png",
     "static/media/gears-4191907_1280.jpg": "/eCommerceSteelSafe/static/media/gears-4191907_1280.b922889d0ed91f3bec55.jpg",
@@ -13,11 +13,11 @@
     "static/media/firework.jpg": "/eCommerceSteelSafe/static/media/firework.eddab6c2b74f8afe8372.jpg",
     "index.html": "/eCommerceSteelSafe/index.html",
     "main.6ce36035.css.map": "/eCommerceSteelSafe/static/css/main.6ce36035.css.map",
-    "main.8742b8d7.js.map": "/eCommerceSteelSafe/static/js/main.8742b8d7.js.map",
+    "main.d086f573.js.map": "/eCommerceSteelSafe/static/js/main.d086f573.js.map",
     "453.e47ae0be.chunk.js.map": "/eCommerceSteelSafe/static/js/453.e47ae0be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ce36035.css",
-    "static/js/main.8742b8d7.js"
+    "static/js/main.d086f573.js"
   ]
 }
